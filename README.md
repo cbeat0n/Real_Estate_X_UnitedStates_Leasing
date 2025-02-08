@@ -19,15 +19,15 @@ The project will display a series of graphs and plots broken down to state and t
 
 ## Credits
  
-Ally Eveslage- Presentation,
+Ally Eveslage- Presentation, Project Management 
 
-Connor Beaton- Data Cleaning, Analysis Coding,
+Connor Beaton- Data Cleaning, Analysis Coding  https://www.linkedin.com/in/connorbeaton525/
  
-Erica Wollmering- Style Guidelines, 
+Erica Wollmering- Style Guidelines, Data Implications/Writing  https://www.linkedin.com/in/ericawollmering/
  
-Noah Stevenson- Analysis Coding,
+Noah Stevenson- Analysis Coding,https://www.linkedin.com/in/noah-stevenson-14b20133a/
 
-Derek Bates- Readme,
+Derek Bates- Readme, Data Documentation/Writing https://www.linkedin.com/in/derek-bates-93aabb340/
 
 
 

@@ -44,8 +44,8 @@ to be reviewed in future negotiations.
 4. What are the correlations, if any, between rent amount and parking spaces?
 5. What is the distribution of parking space sizes?
 6. What are the correlations, if any, between ZIP code and length of lease?
-8. What are the correlations, if any, between rent amount and ft^2 of unit leased?
-9. What are the correlations, if any, between ZIP code and rent of unit leased?
+7. What are the correlations, if any, between rent amount and ft^2 of unit leased?
+8. What are the correlations, if any, between ZIP code and rent of unit leased?
 
 ## Top 5 States by Count Percentage
 

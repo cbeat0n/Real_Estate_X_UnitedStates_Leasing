@@ -21,52 +21,47 @@ to be reviewed in future negotiations.
 4. What are the correlations, if any, between rent amount and parking spaces(pick one)?
 5. What is the distribution of parking space sizes?
 6. What are the correlations, if any, between ZIP code and length of lease?
-7. Bar Chart and Length of lease pd.cut pie chart?
 8. What are the correlations, if any, between rent amount and ft^2 of unit leased?
 9. What are the correlations, if any, between ZIP code and rent of unit leased?
 
 ## Top 5 States by Count Percentage
 
-![image](https://github.com/user-attachments/assets/83ecb579-1336-4814-8cae-5edda837ae35)
+![image](https://github.com/user-attachments/assets/d6be3d14-6c33-4084-8843-6e83d5d5b189)
 
 ## State Count vs. State 
 
-![image](https://github.com/user-attachments/assets/eb8c016f-d8e1-4ce6-8124-d38329424ba2)
+![image](https://github.com/user-attachments/assets/1482b450-c9d4-4b0a-a85c-8ba5982fb6f3)
 
-## Rent Amount vs. Usable Sqft 
+## Rent Amount vs. Usable Sqft
 
-![image](https://github.com/user-attachments/assets/456d45d4-8fd5-433c-ab24-ef563368d138)
-
+![image](https://github.com/user-attachments/assets/34892579-2861-4acf-806c-43839cf11a4e)
+ 
 ## Rentable Sqft vs. Usable Sqft
 
-![image](https://github.com/user-attachments/assets/d33fa811-4f63-41a1-a4b0-f97a09a3aa70)
+![image](https://github.com/user-attachments/assets/93112dbb-8877-4c2f-a5ba-5a692b204faf)
 
 ## Rent Amount vs. Surface Parking Sqaces
 
-![image](https://github.com/user-attachments/assets/505307ea-d7cb-45fb-af06-e1d48464e8a2)
+![image](https://github.com/user-attachments/assets/1deefbaf-23ca-4b7a-babe-0884a58442cc)
 
 ## Surface Parking Sizes by Count Percentage
 
-![image](https://github.com/user-attachments/assets/aaa78660-5c2c-4128-8e22-0f7863f56bae)
+![image](https://github.com/user-attachments/assets/d236f16e-400e-47ca-9835-f047fee71742)
 
 ## Mean Length of Lease vs. Regions
 
-![image](https://github.com/user-attachments/assets/b42ba849-5cf1-4d6a-a8ab-b8f331178eb8)
+![image](https://github.com/user-attachments/assets/7e80092f-9a9b-46fb-9251-9111682d2ae4)
 
 ## Rent Amount vs. Rentable Sqft
 
-![image](https://github.com/user-attachments/assets/6c4c008a-b1f6-44f7-a090-64cd43740c91)
+![image](https://github.com/user-attachments/assets/21d548ab-1c87-43d8-a049-53900fa242bc)
 
 ## Mean Rent Amount vs. Regions
-
-![image](https://github.com/user-attachments/assets/bc14886a-1bac-4415-a6d7-094550424fea)
-
-
-
+![image](https://github.com/user-attachments/assets/96a5c56f-d402-40d9-b55c-ddce1dd5027a)
 
 ## Credits
  
-Ally Eveslage- Presentation, Project Management 
+Ally Eveslage- Presentation, Project Management https://www.linkedin.com/in/allyson-eveslage-a21496193/
 
 Connor Beaton- Data Cleaning, Analysis Coding  https://www.linkedin.com/in/connorbeaton525/
  
@@ -87,11 +82,11 @@ Any suggestions for additional use cases are appreciated as well.
 - [![Python 3.7.13](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]([https://www.python.org/downloads/release/python-3713/) - Programming Language
 - [![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/#) - Data maniupulation library
 - [![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/) - Multi-dimensional array library
-- [![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/python/) - Visualization library for plots
+- [![Scipy](https://img.shields.io/badge/Scipy-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://scipy.org/) - Scientific computing and technical computing library
 - [![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=plotly&logoColor=white)](https://matplotlib.org/) - Visualization library for plots
 - [![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://jupyter.org/) - Notebook IDE
 - [![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/) - Data science platform
-
+- [![Google](https://img.shields.io/badge/Google-3776AB?style=for-the-badge&logo=Google&logoColor=white)](https://www.google.com/) - Cloud-based storage and file-syncing service
 
 
 

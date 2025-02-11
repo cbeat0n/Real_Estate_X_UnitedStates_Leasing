@@ -8,7 +8,30 @@ This project utilizes python and requires no additional installation.
 
 The project will display a series of graphs and plots broken down to state and territory (where applicable) level as well as an overview based on region. Plots also include a linear regression annotation to give a visual representation and provide a guideline on where lease contracts are expected to manifest.
 
-## Product Description:
+## Objectives
+
+<ins>Government Efficiency</ins>
+
+Analyze and optimize government property usage.
+
+Reduce costs associated with owned and leased properties
+
+<ins>Space Management</ins>
+
+Spot trends in lease renewals, terminations, and rent escalations.
+
+<ins>Cost Savings</ins>
+
+Spot trends in lease renewals, terminations, and rent escalations.
+
+<ins>Transparency & Accountability</ins>
+
+Provide transparency into federal property management for oversight and public trust.
+
+Allow agencies and watchdogs to track government spending on real estate.
+
+
+## Project Description:
 
 Lessor Data is a comparative collection based on government asset data. It is intended to be used to identify the current state of leases, showcasing anomalous contracts to provide data 
 to be reviewed in future negotiations.
@@ -18,7 +41,7 @@ to be reviewed in future negotiations.
 1. Within the United States, where is the highest population of government leased properties?
 2. What are the correlations, if any, between rent amount and usable ft^2 in the lease? 
 3. What are the correlations, if any, between usable and rentable ft^2 in the lease?
-4. What are the correlations, if any, between rent amount and parking spaces(pick one)?
+4. What are the correlations, if any, between rent amount and parking spaces?
 5. What is the distribution of parking space sizes?
 6. What are the correlations, if any, between ZIP code and length of lease?
 8. What are the correlations, if any, between rent amount and ft^2 of unit leased?
@@ -88,7 +111,11 @@ Any suggestions for additional use cases are appreciated as well.
 - [![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/) - Data science platform
 - [![Google](https://img.shields.io/badge/Google-3776AB?style=for-the-badge&logo=Google&logoColor=white)](https://www.google.com/) - Cloud-based storage and file-syncing service
 
+<ins>Sources</ins>
 
+https://facts.usps.com/42000-zip-codes/
+
+https://catalog.data.gov/dataset/real-estate-across-the-united-states-rexus-lease
 
 
 

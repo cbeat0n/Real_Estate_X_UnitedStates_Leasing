@@ -8,6 +8,10 @@ This project utilizes python and requires no additional installation.
 
 The project will display a series of graphs and plots broken down to state and territory (where applicable) level as well as an overview based on region. Plots also include a linear regression annotation to give a visual representation and provide a guideline on where lease contracts are expected to manifest.
 
+## Video Presentation Link
+
+https://shorturl.at/zJJLL
+
 ## Objectives
 
 <ins>Government Efficiency</ins>
